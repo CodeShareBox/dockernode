@@ -4,7 +4,7 @@ function connect()
     var connection=mysql.createConnection(
         {   
         
-        host:'192.168.2.43',
+        host:'172.18.6.157',
         user:'root',
         password:'root',
         database:'dac',
